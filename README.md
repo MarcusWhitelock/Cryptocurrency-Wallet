@@ -34,16 +34,25 @@ Specifically, you will assume the perspective of a Fintech Finder customer in or
 ## Instructions
 
 1. Clone to your local device 
-2. Open your terminal in the location of the file, fintech_finder.py.
-3. Activate the environment to run the app.
-4. Type into the terminal streamlit run fintech_finder.py.
-5. It will open in your chosen browser. 
-6. Select a cnadidate from the sidebar select box.
-7. Input the number of hours you wish to hire them for then press enter.
-8. Check the Wage if it is smaller than your Account Balancee which can be seen at top of sidebar, you can press the send transaction button at the bottom. 
-9. If Successful the app will release balloons, and confirm below send transaction button. 
-10. Check your crypto wallet for transaction.
+2. Add your .env file to directory
+3. Open your terminal in the location of the file, fintech_finder.py.
+4. Activate the environment to run the app.
+5. Type into the terminal streamlit run fintech_finder.py.
+6. It will open in your chosen browser. 
+7. Select a candidate from the sidebar select box.
+8. Input the number of hours you wish to hire them for then press enter.
+9. Check the Wage if it is smaller than your Account Balancee which can be seen at top of sidebar, you can press the send transaction button at the bottom. 
+10. If Successful the app will release balloons, and confirm below send transaction button. 
+11. Check your crypto wallet for transaction.
 
-## Video Instruction step through
+## Video Instruction Step Through
+![Demonstration gif](Images/Demonstration.gif)
 
- 
+## Ganache Transaction Confirmation Challenge Screenshots
+
+### Wallets
+![Ganache Wallet](Images/Ganache.png)
+### Blocks
+![Ganache Blocks](Images/Blocks.png)
+### Transactions
+![Ganache Transactions](Images/Transaction.png)
